@@ -1,4 +1,4 @@
-== PipTube v0.1 ==
+#PipTube v0.1 #
 
 This is a very simple plugin that lets you access YouTube leanback from within MediaCenter. It pretty much just opens youtube.com/leanback in a media center browser window.
 
@@ -6,15 +6,15 @@ I made this plugin because I wanted to be able to access my own YouTube playlist
 
 The leanback interface is easily navigated with the up, down, left, and right buttons.  Ok can be used to make selections or play/pause a movie.
 
-=== Known Issues ===
+##Known Issues 
 
-- Certain media center buttons like 'Back' are linked to keyboard shortcuts. Pressing Back on your remote will exit the plugin, NOT go back in leanback.
+* Certain media center buttons like 'Back' are linked to keyboard shortcuts. Pressing Back on your remote will exit the plugin, NOT go back in leanback.
 
-- You can use the keyboard to search, but since 'Backspace' is used by Media Center to go back a menu you can't really use Backspace whiel in leanback.  I hope to fix this
+* You can use the keyboard to search, but since 'Backspace' is used by Media Center to go back a menu you can't really use Backspace whiel in leanback.  I hope to fix this
 
-- There is some problem on MediaCenter 64 bit where Leanback will only work properly once.  If the flash plugin is cached then you will get an error message.  To workaround this the plugin will look for a  watch_as3*.swf file in the temporary internet files directory and delete it.
+* There is some problem on MediaCenter 64 bit where Leanback will only work properly once.  If the flash plugin is cached then you will get an error message.  To workaround this the plugin will look for a  watch_as3*.swf file in the temporary internet files directory and delete it.
 
-=== Installation ===
+##Installation
 
 * Download PipTubeSetup.msi
 * Run the installer
@@ -25,7 +25,7 @@ The leanback interface is easily navigated with the up, down, left, and right bu
 
 '''At this point you should see YouTube leanback. Logging in after this is optional'''
 
-=== Logging In ===
+###Logging In
 * Select the login option
 * Use a keyboard to fill in your login details
 ** ''After logging in you may see an error message. If you do exit PipTube then re-run PipTube. This error is because of the issue with the flash file''
