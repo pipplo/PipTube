@@ -1,0 +1,9 @@
+﻿<application title="PipTube" id="{07513a86-3859-4862-af95-f2012c799cbf}">
+	<entrypoint id="{a338e765-5fbb-429e-8274-79ba359d3afb}"
+				addin="PipTube.MyAddIn, PipTube,Culture=Neutral,Version=1.0.0.0,PublicKeyToken=6eb9c3708cf70558"
+				title="PipTube"
+				description="PipTube Description"
+				ImageUrl=".\Application.png">
+		<category category="More Programs"/>
+	</entrypoint>
+</application>

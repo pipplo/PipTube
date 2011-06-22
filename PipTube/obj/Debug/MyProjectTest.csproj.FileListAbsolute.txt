@@ -1,0 +1,10 @@
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\bin\Debug\MyProjectTest.dll
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\bin\Debug\MyProjectTest.pdb
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\bin\Debug\BDATunePIA.dll
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\bin\Debug\mcstoredb.dll
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\obj\Debug\MyProjectTest.Resources.resources
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\obj\Debug\ResGen.read.1.tlog
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\obj\Debug\ResGen.write.1.tlog
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\obj\Debug\MyProjectTest.dll
+C:\Users\joe\documents\visual studio 2010\Projects\MyProjectTest\MyProjectTest\obj\Debug\MyProjectTest.pdb
