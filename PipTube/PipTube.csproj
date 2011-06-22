@@ -116,7 +116,9 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Markup\Controls.mcml" />
-    <Content Include="Markup\Menu.mcml" />
+    <Content Include="Markup\Menu.mcml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Markup\RepeatItem.mcml" />
     <Content Include="Markup\Styles.mcml" />
     <Content Include="Markup\Test.mcml" />
