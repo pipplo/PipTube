@@ -6,7 +6,7 @@ I made this plugin because I wanted to be able to access my own YouTube playlist
 
 The leanback interface is easily navigated with the up, down, left, and right buttons.  Ok can be used to make selections or play/pause a movie.
 
-##Known Issues 
+###Known Issues 
 
 * Certain media center buttons like 'Back' are linked to keyboard shortcuts. Pressing Back on your remote will exit the plugin, NOT go back in leanback.
 
@@ -14,7 +14,7 @@ The leanback interface is easily navigated with the up, down, left, and right bu
 
 * There is some problem on MediaCenter 64 bit where Leanback will only work properly once.  If the flash plugin is cached then you will get an error message.  To workaround this the plugin will look for a  watch_as3*.swf file in the temporary internet files directory and delete it.
 
-##Installation
+###Installation
 
 * Download PipTubeSetup.msi
 * Run the installer
