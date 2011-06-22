@@ -23,11 +23,12 @@ The leanback interface is easily navigated with the up, down, left, and right bu
 * You may see some dialogs from Media Center.  Answer those
 * If leanback does not work you may need to install the latest version of flash.  Open IE and install flash then try again.
 
-'''At this point you should see YouTube leanback. Logging in after this is optional'''
+At this point you should see YouTube leanback. Logging in after this is optional
 
 ###Logging In
 * Select the login option
 * Use a keyboard to fill in your login details
-** ''After logging in you may see an error message. If you do exit PipTube then re-run PipTube. This error is because of the issue with the flash file''
-* You should now be able to access your own playlists
+* After logging in you may see an error message. If you do exit PipTube then re-run PipTube. This error is because of the issue with the flash file
+
+You should now be able to access your own playlists
 
