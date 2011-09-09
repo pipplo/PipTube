@@ -34,9 +34,11 @@ namespace PipTube
             {
                 File.Delete(f);
             }
-
-            host.MediaCenterEnvironment.NavigateToPage(PageId.ExtensibilityUrl, "http://www.youtube.com/leanback"); 
             //app.GoToMenu();
+            host.MediaCenterEnvironment.NavigateToPage(PageId.ExtensibilityUrl, "http://www.youtube.com/leanback");
+            host.MediaCenterEnvironment.MediaExperience.Transport.PlayRate = 0;
+
+
         }
     }
 }

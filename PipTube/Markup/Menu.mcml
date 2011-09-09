@@ -13,18 +13,7 @@
 
     <Content>
       <Panel Layout="Center">
-        <Children>
-          <Repeater Source="[Application.MyData]" >
-            <Layout>
-              <FlowLayout Orientation="Vertical"
-                          Spacing="4,0"/>
-            </Layout>
-            <Content>
-              <r:RepeatItem Text="[RepeatedItem!cor:String]"
-                            Application="[Application]"/>
-            </Content>
-          </Repeater>
-        </Children>
+
       </Panel>
     </Content>
 

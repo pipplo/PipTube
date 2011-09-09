@@ -16,17 +16,6 @@
       <Command Name="MyCommand"/>
     </Locals>
 
-    <Rules>
-      <Binding Target="[MyCommand.Description]"
-               Source="[Text]"/>
-      <Changed Source="[MyCommand.Invoked]">
-        <Actions>
-          <Invoke Target="[Application.DialogTest]"
-                  strClickedText="[Text]"/>
-        </Actions>
-      </Changed>
-    </Rules>
-
     <Content>
       <c:Button Name="Button"
                 Model="[MyCommand]" />
